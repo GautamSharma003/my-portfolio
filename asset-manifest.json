@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.ec6a3dd0.css",
-    "main.js": "/my-portfolio/static/js/main.2e204185.js",
+    "main.js": "/my-portfolio/static/js/main.74cdd340.js",
     "static/js/415.4d6acbeb.chunk.js": "/my-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/blog.png": "/my-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/my-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Gautam_Sharma_Resume.pdf": "/my-portfolio/static/media/Gautam_Sharma_Resume.73ab36481df5ee1df5ae.pdf",
     "static/media/chatify.png": "/my-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/Logo_C_sharp.svg.png": "/my-portfolio/static/media/Logo_C_sharp.svg.e3f03750e4165a428ab3.png",
@@ -14,12 +15,12 @@
     "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/my-portfolio/index.html",
     "main.ec6a3dd0.css.map": "/my-portfolio/static/css/main.ec6a3dd0.css.map",
-    "main.2e204185.js.map": "/my-portfolio/static/js/main.2e204185.js.map",
+    "main.74cdd340.js.map": "/my-portfolio/static/js/main.74cdd340.js.map",
     "415.4d6acbeb.chunk.js.map": "/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec6a3dd0.css",
-    "static/js/main.2e204185.js"
+    "static/js/main.74cdd340.js"
   ]
 }
